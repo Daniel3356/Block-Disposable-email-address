@@ -6,4 +6,4 @@ This project is made to block disposable email address from a loading page and c
 If you want to add other email addresses you would pull a requests. 
 </p>
 <H1>Credit<H1>
-<p>Created in 2016 By Martin Cech</p>
+<li>Created in 2016 By <a href="https://github.com/martenson/disposable-email-domains">Martin Cech</a></li>
